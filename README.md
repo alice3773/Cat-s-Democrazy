@@ -1,15 +1,10 @@
-# Basic Sample Hardhat Project
+Cat's Democrazy is a DAO that gathers passionate degens who hold a Cat NFT that is issued by the DAO to make impacts in the space. Cat opens the gate for members to invest in unicorn projects and at the same time, they can also porpose a proposal to decide how the funds in the DAO should be used. 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+Cat NFT is minted for sales at the beginning and can also been traded at the secondary market like Opensea. 
 
 Try running some of the following tasks:
 
 ```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
 npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
 npx hardhat help
 ```
